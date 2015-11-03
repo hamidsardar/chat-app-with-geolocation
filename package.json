@@ -1,0 +1,31 @@
+{
+    "name": "UserChat",
+    "description": "UserChat: MongoDB, ExpressJS, AngularJS, NodeJS.",
+    "dependencies": {
+        "express": "*",
+        "forever": "*",
+        "jade": "latest",
+        "mongoose": "latest",
+        "mean-logger": "latest",
+        "connect-mongo": "latest",
+        "connect-flash": "latest",
+        "crypto": "latest",
+        "passport": "latest",
+        "passport-local": "latest",
+        "passport-facebook": "latest",
+        "passport-twitter": "latest",
+        "passport-github": "latest",
+        "passport-google-oauth": "latest",
+        "underscore": "latest",
+        "async": "latest",
+        "view-helpers": "latest",
+        "forever": "latest",
+        "bower": "latest",
+        "socket.io": "latest",
+         "should": "latest",
+          "supertest": "latest"          ,
+          "underscore": "latest"
+
+    }
+
+}
